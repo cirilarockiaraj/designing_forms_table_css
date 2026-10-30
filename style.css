@@ -19,6 +19,7 @@ body {
     padding: 30px;
     background-color: rgb(248, 225, 236);
     border-radius: 5px;
+    box-shadow: 5px 5px 100px #424242;
 }
 
 .form-container input[type="text"],
@@ -62,6 +63,8 @@ input[type="date"] {
 .table-container {
     padding: 10px;
     width: 70%;
+    box-shadow: 5px 5px 100px #424242;
+    border-radius: 5px;
 }
 
 .table-container table {
